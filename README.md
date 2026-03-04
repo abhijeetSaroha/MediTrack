@@ -1,6 +1,6 @@
 # MediTrack - Java Management System
 
-MediTrack is a comprehensive, console-based Java application built to manage library-style medical records. It demonstrates proficiency in Core OOP, Advanced OOP concepts, Design Patterns, and modern Java features.
+MediTrack is a comprehensive, console-based Java application built to manage library-style medical records.
 
 ## Features & Implementation
 
